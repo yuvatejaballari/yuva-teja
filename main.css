@@ -1,0 +1,47 @@
+table {
+    font-style: italic;
+    border-collapse: collapse;
+    width: 50%;
+    color: white;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: peachpuff;
+  }
+  h1{
+      text-align:center;
+  }
+  .GroBtn{
+      margin-left: 200px;
+  }
+  .containerBtn{
+      margin-left: 60px;
+  }
+  table{
+      background-color: rgb(27, 95, 6);
+      
+  }
+  .container {
+   background-color: white;
+   text-align: center;
+
+  }
+  h1 {
+    text-decoration: underline;
+  }
+  .Hi {
+    width: 100%;
+    height: 50px;
+    background-color: pink;
+    color: black;
+    font-style: italic;
+  }
+  .Hi2 {
+    margin-left: 30%;
+  }
